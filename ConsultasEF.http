@@ -1,0 +1,6 @@
+@ConsultasEF_HostAddress = http://localhost:5139
+
+GET {{ConsultasEF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
